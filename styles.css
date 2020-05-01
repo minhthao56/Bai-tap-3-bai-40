@@ -1,0 +1,56 @@
+
+body{
+    font-family: 'Manrope', sans-serif;
+}
+
+.account{
+    font-weight: bolder;
+    font-size: 20px;
+    border-bottom: dashed;
+    border-color: #eeeeee;
+    border-width: 2px;
+    padding-bottom: 5px;
+    width: 500px
+}
+
+.container{
+    display: flex;
+    border-style: solid;
+    border-color: rgba(170, 170, 170, 0.1);
+    border-width: 2px;
+    border-radius: 10px;
+    width: 400px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.avatar{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-size: cover;
+    margin-right: 15px;
+}
+
+
+.tiltle{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.info{
+    font-size: 13px;
+    font-weight: 100;
+    font-family: 'Raleway', sans-serif;
+    color: #bbbbbb;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    color: #F57077;
+    flex: 1;
+    justify-content: flex-end;
+    font-size: 22px;
+
+
+}
